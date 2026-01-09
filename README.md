@@ -12,5 +12,6 @@
 - 首先編譯程式：
 `cd word-counter`
 `go build -o word-counter main.go`
-然後執行：
+- 然後執行：
 `./word-counter <檔案路徑>`
+
