@@ -1,0 +1,5 @@
+Hello World
+This is a sample text file.
+It has multiple lines.
+We can use this to test our word counter program.
+Let's see how it counts lines, words, and characters!
